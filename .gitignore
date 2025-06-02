@@ -1,0 +1,13 @@
+# Virtual environment
+.venv/
+ai_tutor_env/
+
+# PyCharm files
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables (sensitive info)
+.env
